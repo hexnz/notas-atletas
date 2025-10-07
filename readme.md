@@ -1,0 +1,1 @@
+Para  verificar a funcionalidade do código,baixe o node em seu computador.Já com o código clonado,execute o comando  no cli: node + nome do arquivo.
